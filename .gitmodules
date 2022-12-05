@@ -1,0 +1,3 @@
+[submodule "initial-demo"]
+	path = initial-demo
+	url = git@github.com:Dounder/next-vercel-demo.git
