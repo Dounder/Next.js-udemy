@@ -1,3 +1,6 @@
 [submodule "initial-demo"]
 	path = initial-demo
 	url = git@github.com:Dounder/next-vercel-demo.git
+[submodule "pokemon-static"]
+	path = pokemon-static
+	url = git@github.com:Dounder/next-pokemon-static.git
